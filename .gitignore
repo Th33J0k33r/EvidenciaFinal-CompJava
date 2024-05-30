@@ -1,6 +1,11 @@
 # Compiled class file
 *.class
 
+# Ignore vim files:
+*~
+*.swp
+*.swo
+
 # Log file
 *.log
 
